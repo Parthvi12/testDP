@@ -58,7 +58,7 @@
               ],
               "shouldTruncate": false,
               "truncateButtonColor": "#FFC13D",
-              "text": "{{JSObject1.myFun1()}}",
+              "text": "{{JSObject13.myFun1()}}",
               "key": "e5ryri49cy",
               "isDeprecated": false,
               "rightColumn": 28,
